@@ -1,0 +1,13 @@
+name: "hello"
+organisation: "your profile"
+author: "your name"
+contact: "your email"
+company: "your org"
+version: "0.0.1"
+release: "0.0.1"
+copyright_year: 2017
+command_line_interface: "hello"
+entry_point: "hello.main:main"
+license: MIT
+dependencies: []
+description: "demonstrate yehua usage"
